@@ -8,7 +8,7 @@ Breast cancer detection using machine learning involves training algorithms to r
 Dataset use is
 url = "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data"
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project 2
 
 Diabetes Detection Using Machine Learning
@@ -26,3 +26,5 @@ Model Training: Train the KNN model with various values of k.
 Evaluation: Assess the model using accuracy scores and visualizations.
 Results
 The project demonstrates effective diabetes prediction with optimal k values, highlighting the potential of ML in medical diagnostics.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
